@@ -9,9 +9,9 @@
 //
 int main(int argc, char *argv[]){
 	//inicializa
-	char caracter = 'a'; 			//comilla sencilla letra
+	char caracter = 'a';			//comilla sencilla letra
 	char cadena[7] = "México";		//comilla doble para cadena
-    char name[25]; 
+	char name[25]; 
 	char str[] = "NovemBeR"; 
 	char str1[] = "Look Here";
 	char string[26] = {'\0'}; 		//utilizar uno mas 25 -> 25+1 = 26; null symbol 
@@ -31,7 +31,7 @@ int main(int argc, char *argv[]){
 
 	printf("         1         2         3         4\n");
 	printf("1234567890123456789012345678901234567890\n");
-    	  //Francisco Irwin Arroyo
+		  //Francisco Irwin Arroyo
 									/*
 									sin utilizar espacios porque...
 									https://stackoverflow.com/questions/36467134/confused-about-gcc-and-scanf-in-c
