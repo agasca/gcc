@@ -4,9 +4,8 @@
 #include <stdlib.h>					//System(clear)
 
 
-//20191101
-//main
 //
+//20191101
 int main(int argc, char *argv[]){
 	//inicializa
 	char caracter = 'a';			//comilla sencilla letra
